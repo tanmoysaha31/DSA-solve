@@ -28,8 +28,8 @@ All solutions live here, neatly organized (or at least, I try 😆).
 ---
 
 ## 🤝 Let's Connect  
-👨‍💻 **GitHub**: [your-username](https://github.com/tanmoysaha31)  
-💼 **LinkedIn**: [your-profile](www.linkedin.com/in/tanmoysaha31)  
+👨‍💻 **GitHub**: [Tanmoy Saha](https://github.com/tanmoysaha31)  
+💼 **LinkedIn**: [Tanmoy Saha](www.linkedin.com/in/tanmoysaha31)  
 
 ---
 
